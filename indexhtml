@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quick Question</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card" id="card">
+    <h1 id="question">Am I the only girl you like?</h1>
+
+    <div class="buttons" id="buttons">
+      <button class="btn dodge">Yes</button>
+      <button class="btn dodge">Yes (obviously)</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
